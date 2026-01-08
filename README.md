@@ -25,7 +25,7 @@
 
 1. Клонирайте repository-то:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/AtanasG6/todo-app.git
 cd todo-app
 ```
 

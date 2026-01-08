@@ -72,12 +72,6 @@ todo-app/
 └── public/               # Static assets
 ```
 
-## Deploy on Vercel
-
-Най-лесният начин да deploy-неш приложението е чрез [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme).
-
-Вижте [Next.js deployment документацията](https://nextjs.org/docs/app/building-your-application/deploying) за повече детайли.
-
 ## Лиценз
 
 MIT
